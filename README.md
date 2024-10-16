@@ -12,7 +12,7 @@ A simple quiz application built using PHP, HTML, and JavaScript that allows user
  5. User Authentication: The app includes a secure login system that allows users to create accounts, track their progress, and view their scores over time.
 
 6. Flexible and Accessible: Accessible via any device with a web browser, the Quiz App allows users to learn at their own pace, making it a convenient option for busy individuals.
-7.  
+
 ## Table of Contents
 
 - [Features](#features)
